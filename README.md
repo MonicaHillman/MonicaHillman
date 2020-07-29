@@ -1,16 +1,17 @@
-### Hi there 👋
+## Welcome to my profile! 👋
 
-<!--
-**MonicaHillman/MonicaHillman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• My name is Monica Hillman <br>
+• I'm 21 years old <br>
+• Student of Digital Technologies <br>
+• Brazilian <br>
 
-Here are some ideas to get you started:
+I'm currently working on personal projects to improve my knowledge, trying to learn new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cat Mom, Digital Artist, Front-End Developer. <br>
+![Image of Cat](https://i.ibb.co/Byt5vF7/cat.png)
+
+## Follow my journey! 📫
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monicahillman/)](https://www.linkedin.com/in/monicahillman/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/monis.png/)](https://www.instagram.com/monis.png/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/monispng/)](https://www.twitter.com/monispng)
