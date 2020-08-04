@@ -7,7 +7,7 @@
 
 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 
-Cat Mom, Digital Artist, Front-End Developer. <br>
+Cat Mom, Digital Artist, Front-End Developer (HTML, CSS, JS, React). <br>
 ![Image of Cat](https://i.ibb.co/Byt5vF7/cat.png)
 
 ## Follow my journey! 📫
