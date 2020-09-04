@@ -4,6 +4,7 @@
 • I'm 21 years old <br>
 • Student of Digital Technologies <br>
 • Brazilian <br>
+• Intern at Develcode <br>
 
 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 
