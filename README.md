@@ -13,5 +13,5 @@ Cat Mom, Digital Artist, Front-End Developer (HTML, CSS, JS, React). <br>
 ## Follow my journey! 📫
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monicamhillman/)](https://www.linkedin.com/in/monicamhillman/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/monis.png/)](https://www.instagram.com/moni.psd/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/monis.png/)](https://www.instagram.com/tech.moni/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/monispng/)](https://www.twitter.com/monispng)
