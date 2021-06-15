@@ -1,14 +1,13 @@
 ## Welcome to my profile! 👋
 
-• My name is Monica Hillman <br>
+• My name is Monica Mazzochi Hillman <br>
 • I'm 22 years old <br>
 • Bachelor of Digital Technologies <br>
 • Brazilian <br>
+• Currently working at Alura <br>
+• Cat Mom, Digital Artist, Front-End Developer (HTML, CSS, JS, React). <br>
 
-I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
-
-Cat Mom, Digital Artist, Front-End Developer (HTML, CSS, JS, React). <br>
-![Image of Cat](https://i.ibb.co/Byt5vF7/cat.png)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=monicahillman&count_private=true&show_icons=true&theme=radical" /> </p>
 
 ## Follow my journey! 📫
 
